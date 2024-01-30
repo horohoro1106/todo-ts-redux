@@ -1,0 +1,13 @@
+.todoItem {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.btnGroup {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}

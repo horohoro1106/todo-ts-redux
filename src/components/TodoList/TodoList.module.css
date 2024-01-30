@@ -1,0 +1,12 @@
+.todoList {
+  border: 4px solid #4682a9;
+  border-radius: 8px;
+  padding: 18px;
+  text-align: center;
+  min-height: 340px;
+  min-width: 240px;
+}
+
+.todoList h3 {
+  padding-bottom: 8px;
+}
